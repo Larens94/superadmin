@@ -1,0 +1,12 @@
+{
+    "user": "Utente",
+    "email": "Email",
+    "phone": "Telefono",
+    "joined": "Registrato",
+    "status": "Stato",
+    "actions": "Azioni",
+    "dashboard": "Dashboard",
+    "users": "Utenti",
+    "details": "Dettagli",
+    "delete-message": "Sei sicuro di voler eliminare questo Utente?"
+}
